@@ -21,3 +21,6 @@
 #9.2.2 :
     Suppression de l'info élément
     Fix crash si multi click sauvage
+
+#9.1.0 : Pilotage SDET
+    Je veux savoir dans quel workspace se trouvait l'alerte qui vient d'être traitée
