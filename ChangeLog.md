@@ -24,3 +24,9 @@
 
 #9.1.0 : Pilotage SDET
     Je veux savoir dans quel workspace se trouvait l'alerte qui vient d'être traitée
+
+
+#9.1.1 :
+
+    Crash lorsque l'alerte est traité deux fois.
+    Mauvaise initialisation de la popup dlc
