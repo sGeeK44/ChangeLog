@@ -13,3 +13,11 @@
     Un Manager AFR peut ajouter les éléments de son workspace sur son device
     Le dernier article scanné durant l'inventaire est affiché en haut de la liste
     Ajout de l'info DLC / Rupture dans l'article card
+
+#9.2.1 :
+    Problème lors de la navigation entre les onglets
+    Agandissement de la zone de click
+
+#9.2.2 :
+    Suppression de l'info élément
+    Fix crash si multi click sauvage
